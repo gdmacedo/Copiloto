@@ -1,0 +1,2 @@
+Aprendendo a criar um copiloto no Microsoft Copilot Studio, abordo a configuração de fluxos de conversa, integração com serviços externos e personalização de respostas. 
+Ao final, mostrarei um assistente funcional capaz de interagir de forma inteligente e automatizar tarefas.
