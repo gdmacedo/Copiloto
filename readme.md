@@ -1,0 +1,1 @@
+Nas próximas pastas, apresento a relação de minhas atividades com agentes orientados por IA, com o desenvolvimento atraves do Microsoft Copilot Studio com cursos. Na Pasta Integrando-Site, mostro como integrar o chat a um site de forma simples e rápida.
